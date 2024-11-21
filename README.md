@@ -4,6 +4,6 @@
 > google_mlkit_face_detection
 
 ## Liveness Modules:
-> Blink
-> Smile
-> Turn left or right
+1. Blink
+2. Smile
+3. Turn left or right
