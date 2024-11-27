@@ -1,7 +1,7 @@
 import 'package:camera/camera.dart';
 import 'package:flutter/material.dart';
 
-import 'package:mlkit_liveness/faceliveness.dart';
+import 'package:mlkit_liveness/fv_liveness.dart';
 
 List<CameraDescription>? cameras;
 
